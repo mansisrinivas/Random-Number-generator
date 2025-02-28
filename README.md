@@ -1,5 +1,5 @@
 # Random Number Generator 🎲
-# Check it out!
+## Click the link below!
 https://mansisrinivas.github.io/Random-Number-generator/
 
 This is a simple web application that generates a random number between 1 and 100 every time you click the button. It is built using **React.js** and demonstrates the basic concepts of React, such as using state and handling events.
