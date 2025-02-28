@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mansisrinivas/Random-Number-generator.git/static/css/main.cc951bdf.css",
-    "main.js": "/mansisrinivas/Random-Number-generator.git/static/js/main.f5977747.js",
-    "static/js/488.b89ddb6e.chunk.js": "/mansisrinivas/Random-Number-generator.git/static/js/488.b89ddb6e.chunk.js",
-    "index.html": "/mansisrinivas/Random-Number-generator.git/index.html",
-    "main.cc951bdf.css.map": "/mansisrinivas/Random-Number-generator.git/static/css/main.cc951bdf.css.map",
-    "main.f5977747.js.map": "/mansisrinivas/Random-Number-generator.git/static/js/main.f5977747.js.map",
-    "488.b89ddb6e.chunk.js.map": "/mansisrinivas/Random-Number-generator.git/static/js/488.b89ddb6e.chunk.js.map"
+    "main.css": "/Random-Number-generator/static/css/main.cc951bdf.css",
+    "main.js": "/Random-Number-generator/static/js/main.38d8ce75.js",
+    "static/js/488.b89ddb6e.chunk.js": "/Random-Number-generator/static/js/488.b89ddb6e.chunk.js",
+    "index.html": "/Random-Number-generator/index.html",
+    "main.cc951bdf.css.map": "/Random-Number-generator/static/css/main.cc951bdf.css.map",
+    "main.38d8ce75.js.map": "/Random-Number-generator/static/js/main.38d8ce75.js.map",
+    "488.b89ddb6e.chunk.js.map": "/Random-Number-generator/static/js/488.b89ddb6e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc951bdf.css",
-    "static/js/main.f5977747.js"
+    "static/js/main.38d8ce75.js"
   ]
 }
