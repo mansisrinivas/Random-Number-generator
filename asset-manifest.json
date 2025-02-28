@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mansisrinivas/Random-Number-generator.git/static/css/main.cc951bdf.css",
+    "main.js": "/mansisrinivas/Random-Number-generator.git/static/js/main.f5977747.js",
+    "static/js/488.b89ddb6e.chunk.js": "/mansisrinivas/Random-Number-generator.git/static/js/488.b89ddb6e.chunk.js",
+    "index.html": "/mansisrinivas/Random-Number-generator.git/index.html",
+    "main.cc951bdf.css.map": "/mansisrinivas/Random-Number-generator.git/static/css/main.cc951bdf.css.map",
+    "main.f5977747.js.map": "/mansisrinivas/Random-Number-generator.git/static/js/main.f5977747.js.map",
+    "488.b89ddb6e.chunk.js.map": "/mansisrinivas/Random-Number-generator.git/static/js/488.b89ddb6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc951bdf.css",
+    "static/js/main.f5977747.js"
+  ]
+}
